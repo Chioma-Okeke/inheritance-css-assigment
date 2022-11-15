@@ -1,0 +1,25 @@
+/*specitificity*/
+.parent-class1{
+    color: red;
+} 
+/* (0,1,0) */
+
+#parent-id1{
+    color: blue;
+} 
+/* (1,0,0) */
+
+.child-class1{
+    color: green;
+}
+/* (0,1,0) */
+
+#child-id11{
+    color: chocolate;
+}
+/* (1,0,0) */
+
+/*inheritance*/
+.parent-class2{
+    color: orange;
+}
